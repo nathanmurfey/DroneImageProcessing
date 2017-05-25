@@ -1,0 +1,2 @@
+from histogram_of_oriented_gradients import HOGClassifier
+from haar_like_wavelets import HAARClassifier
