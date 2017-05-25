@@ -1,0 +1,4 @@
+from spectral_residual import SpectralResidualSaliency
+from manifold_ranking import MR_saliency
+from itti_rapid_scene_analysis import IttiRapidSceneAnalysis
+from itti_saliency_attention import IttiSaliencyAttention
